@@ -3,7 +3,7 @@ Automator workflow for batch resizing images. With one click, it copies the fold
 
 
  # Installation
-Clone this repo `git clone github.com/echorec/Automator-Image-Resizer`
+Clone this repo `git clone github.com/echorec/Automator-Image-Resizer`, or download the workflow.
 Open `Image Resize.workflow` with automator
 
 # How-to-Use
